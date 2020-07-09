@@ -1,5 +1,5 @@
 import React from "react";
-import Preview from 'preview-url'
+import Preview from 'preview-url-component'
 
 function App() {
   return (
