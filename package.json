@@ -1,6 +1,6 @@
 {
   "name": "preview-url-component",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A component that easily shows the meta tags of the URL",
   "repository": {
     "type": "git",
