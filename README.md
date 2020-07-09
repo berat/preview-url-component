@@ -1,7 +1,7 @@
 
 # Preview URL Component
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/berat/preview-url/issues) [![npm version](https://badge.fury.io/js/preview-url.svg)](https://badge.fury.io/js/preview-url) <br>
-[![https://nodei.co/npm/preview-url.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/preview-url.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/preview-url)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/berat/preview-url-component/issues) [![npm version](https://badge.fury.io/js/preview-url-component.svg)](https://badge.fury.io/js/preview-url-component) <br>
+[![https://nodei.co/npm/preview-url-component.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/preview-url-component.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/preview-url-component)
 
 > #### The react component that easily get meta tags from the target URL.
 > A component that you will probably want to use to show a preview of the target url. 
