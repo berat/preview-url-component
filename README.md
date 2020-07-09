@@ -8,13 +8,13 @@
 <br>
 
 ## Installation
-Install `preview-url` with npm:
+Install `preview-url-component` with npm:
 
-`npm i preview-url`
+`npm i preview-url-component`
 
 with yarn:
 
-`yarn add preview-url`
+`yarn add preview-url-component`
 
 <br>
 
@@ -30,7 +30,7 @@ Add the component to the section you want to show and remember to use the parame
 
 ```js
 import React from 'react';
-import Preview from  'preview-url'
+import Preview from  'preview-url-component'
 
 const App = () => {
     return (
